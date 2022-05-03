@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Excepteur veniam ea minim do pariatur consequat veniam enim ut sit consectetur ea dolor id. Excepteur exercitation id non pariatur cillum laboris ex ipsum ipsum culpa irure adipisicing enim. Reprehenderit aliquip minim occaecat officia. Reprehenderit adipisicing magna aliqua fugiat laborum enim voluptate. Ea occaecat amet pariatur ipsum cupidatat magna proident aliqua irure.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "National Geographics",
+      "body": "Nostrud reprehenderit est mollit amet amet tempor eu pariatur qui voluptate nostrud. Magna commodo occaecat eiusmod velit excepteur ipsum est voluptate est. Amet qui cillum ipsum mollit cillum sunt. Consequat irure dolore eiusmod sint irure labore. Proident dolor nulla irure sit occaecat amet cillum laborum qui. Culpa aute minim magna duis.",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "To The King",
+      "body": "Sunt est pariatur ut amet. Voluptate est esse sint deserunt proident anim adipisicing minim sint incididunt aliquip nisi fugiat ex. Dolore enim aute sit eiusmod sunt pariatur non. Consectetur voluptate pariatur enim laboris anim. Quis Lorem non labore voluptate non velit dolore consectetur incididunt adipisicing ut consectetur. Eiusmod veniam ea tempor laboris ex. Eu magna proident voluptate in proident.",
+      "likes": 5
+    },
+    {
+      "id": 797,
+      "title": "Trial",
+      "body": "Welcome to my time",
+      "likes": "15"
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "What is your favorite color?",
+      "answerA": "React.js",
+      "answerB": "Angular.js",
+      "answerC": "Vue.js",
+      "answerD": "Next.js"
+    }
+  ]
+}
